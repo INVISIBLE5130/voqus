@@ -1,0 +1,7 @@
+<?php
+	header("Content-type: text/plain");
+?>
+User-agent: *
+Allow: /
+
+Sitemap: https://<?=$_SERVER['HTTP_HOST']?>/sitemap.xml
