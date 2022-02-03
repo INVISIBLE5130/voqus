@@ -2331,13 +2331,13 @@ input[type='number']::-webkit-outer-spin-button, input[type='number']::-webkit-i
 
 @media (min-width: 1024px) {
     .header-block {
-        max-width: 70rem
+        max-width: 150rem
     }
 }
 
 @media (min-width: 1440px) {
     .header-block {
-        max-width: 115rem
+        max-width: 150rem
     }
 }
 
