@@ -718,6 +718,10 @@ input[type='number']::-webkit-outer-spin-button, input[type='number']::-webkit-i
     font-weight: 300
 }
 
+.title__sub {
+    font-size: 1rem;
+}
+
 .title__accent {
     color: #56CCF2
 }
@@ -1358,6 +1362,13 @@ input[type='number']::-webkit-outer-spin-button, input[type='number']::-webkit-i
 .section-block__text-white {
     color: #fff;
     opacity: 1
+}
+
+.section-block__text-center {
+    top: 0;
+    bottom: 0;
+    margin: auto 0;
+    text-align: center;
 }
 
 .section-wrapper-text {
